@@ -1,0 +1,2 @@
+class ExitAppException(BaseException):
+    pass
